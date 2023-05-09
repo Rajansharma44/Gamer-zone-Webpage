@@ -1,0 +1,118 @@
+*{
+    margin: 0;
+    padding: 0;
+    margin-bottom: 1.5rem;
+    /* background-color: black; */
+}
+.Heading{
+    background-image: linear-gradient(#000000, #7d12ff);
+    width: 100%;
+    height: 5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.logo1{
+    content:url('scalaton_image for youthopia.jpg');
+    width: 4rem;
+    height: 4rem;
+    margin-top: 2.0rem;
+}
+.Text1{
+    font-family: 'Archivo Black';
+    font-size: 2.5rem;
+    color: aliceblue;
+    line-height: 3rem;
+    margin-top: 3rem;
+}
+.logo2{
+    
+    width: 3rem;
+    height: 3rem;
+    margin-top: 1.8rem;
+}
+.Theme_heading{
+    font-family: 'Archivo Black';
+    color: #7d12ff;
+    font-size: 1.9rem;
+    line-height: 3rem;
+}
+body{
+    background-image: url('backgroud for youthopia .jpg');
+    background-size: 100% 113rem;
+}
+.Themes{
+    font-size: 1.5rem;
+    font-family: Arial, Helvetica, sans-serif;
+    color:aliceblue;
+    margin: 2rem;
+    margin-top: 0;
+    padding: 4em;
+    padding-top: 3rem;
+    padding-bottom: 4rem;
+    border: 0.5em solid #7d12ff ;
+    background: #000000;
+    background-color: transparent;
+    line-height: 3rem;
+    text-align: justify;
+    text-shadow: 2px 2px 5px #7d12ff;
+}
+
+.AllText{
+    text-align: center;
+}
+.Rules{
+    font-size: 1.5rem;
+    font-family: Arial, Helvetica, sans-serif;
+    color:aliceblue;
+    margin: 2rem;
+    margin-top: 0;
+    padding: 4em;
+    border: 0.5em solid #7d12ff ;
+    background: #000000;
+    background-color: transparent;
+    line-height: 2rem;
+    text-align: justify;
+}
+.RUles_heading{
+    font-family: 'Archivo Black';
+    color: #7d12ff;
+    font-size: 2rem;
+    line-height: 3rem;
+}
+.Evaluation_Criteria_heading{
+    font-family: 'Archivo Black';
+    color: #7d12ff;
+    font-size: 2rem;
+    line-height: 3rem;
+}
+.Criteria{
+    font-size: 1.5rem;
+    font-family: Arial, Helvetica, sans-serif;
+    color:aliceblue;
+    margin: 2rem;
+    margin-top: 0;
+    padding: 4em;
+    border: 0.5em solid #7d12ff ;
+    background: #000000;
+    background-color: transparent;
+    line-height: 3rem;
+    text-align: justify;
+}
+.Button_heading{
+    font-family: 'Archivo Black';
+    color: #7d12ff;
+    font-size: 2rem;
+    line-height: 3rem;
+}
+button{
+    padding: 1rem;
+}
+@media (min-width: 1201px)
+{
+    html{
+        font-size: 95%;
+        }
+}
+
+
